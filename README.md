@@ -1,5 +1,5 @@
 # 230201-VSCode-Appearance.
-Tampilan Visual Studio Code.
+Visual Studio Code Appearance.
 
 ![alt text](https://github.com/bri-anadi/vscode-appearance/blob/main/vscode-appearance.png?raw=true)
 
