@@ -1,4 +1,4 @@
-# 230201-vscode-appearance
+# 230201-VSCode-Appearance.
 Tampilan Visual Studio Code.
 
 ---
