@@ -3,7 +3,9 @@ Tampilan Visual Studio Code.
 
 ---
 
-```
+##### setting.json
+
+```json
 {
   "editor.copyWithSyntaxHighlighting": false,
   "diffEditor.ignoreTrimWhitespace": false,
@@ -59,3 +61,18 @@ Tampilan Visual Studio Code.
   "diffEditor.wordWrap": "off",
 }
 ```
+
+---
+
+### Style Extensions
+1. Parsinta Exclusive
+    > [https://marketplace.visualstudio.com/items?itemName=Parsinta.parsinta-exclusive](https://marketplace.visualstudio.com/items?itemName=Parsinta.parsinta-exclusive)
+2. Material Icons Theme
+    > [https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) 
+
+---
+## Releated Links
+1. Article: Vscode: Clean and Minimalistic
+    > [https://parsinta.com/articles/vscode-wri2ux](https://parsinta.com/articles/vscode-wri2ux)
+2. Youtube: Vscode Parsinta 
+    > [https://youtu.be/RV8u9y0zEr0](https://youtu.be/RV8u9y0zEr0)
